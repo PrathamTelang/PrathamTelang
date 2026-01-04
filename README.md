@@ -40,10 +40,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 
 #### Design & UI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,tailwindcss" />
-</p>
-<p>
-  Motion for React (Framer Motion)
+  <img src="https://skillicons.dev/icons?i=figma,tailwindcss,motion" />
 </p>
 
 #### ORM & Databases
