@@ -42,20 +42,36 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 ---
 
 ### 🚀 Featured Projects
-- **PulseRead** – Speed reading web app  
-#### PulseRead – Speed reading web app
+
+#### PulseRead — Speed reading web app
 <a href="https://pulse-read.vercel.app" target="_blank">
   <img
     src="https://pulse-read.vercel.app/og.png"
     alt="PulseRead preview"
-    width="300"
+    width="600"
   />
 </a>
-
-- **LinkStash** – Save & organize links  
-github.com/PrathamTelang/LinkStash  
-- **Portfolio**  
-  prathamtelang-portfolio.vercel.app
+---
+#### NexRead — Book insights, summaries & text-to-speech platform
+<a href="https://nexread.vercel.app" target="_blank">
+  <img
+    src="https://nexread.vercel.app/og.png"
+    alt="NexRead preview"
+    width="600"
+  />
+</a>
+---
+#### Portfolio — Design engineering showcase
+<a href="https://prathamtelang-portfolio.vercel.app" target="_blank">
+  <img
+    src="https://prathamtelang-portfolio.vercel.app/og.png"
+    alt="Portfolio preview"
+    width="600"
+  />
+</a>
+---
+#### LinkStash — Save & organize web links
+https://github.com/PrathamTelang/LinkStash
 
 ---
 
