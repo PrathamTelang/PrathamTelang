@@ -51,7 +51,9 @@ I build clean, interactive, and performance-focused web interfaces with attentio
     width="300"
   />
 </a>
+
 ---
+
 #### NexRead — Book insights, summaries & text-to-speech platform
 <a href="https://nex-read.vercel.app" target="_blank">
   <img
@@ -60,7 +62,9 @@ I build clean, interactive, and performance-focused web interfaces with attentio
     width="300"
   />
 </a>
+
 ---
+
 #### Portfolio — Design engineering showcase
 <a href="https://prathamtelang-portfolio.vercel.app" target="_blank">
   <img
@@ -69,7 +73,9 @@ I build clean, interactive, and performance-focused web interfaces with attentio
     width="300"
   />
 </a>
+
 ---
+
 #### LinkStash — Save & organize web links
 https://github.com/PrathamTelang/LinkStash
 
