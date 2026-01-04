@@ -1,4 +1,4 @@
-<img src="./og-portfolio.png" alt="banner" href="prathamtelang-portfolio.vercel.app" />
+<img src="./banner.png" alt="banner" href="prathamtelang-portfolio.vercel.app" />
 
 ## Hi there 👋 Welcome!
 
