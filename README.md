@@ -48,16 +48,16 @@ I build clean, interactive, and performance-focused web interfaces with attentio
   <img
     src="https://pulse-read.vercel.app/og.png"
     alt="PulseRead preview"
-    width="600"
+    width="300"
   />
 </a>
 ---
 #### NexRead — Book insights, summaries & text-to-speech platform
-<a href="https://nexread.vercel.app" target="_blank">
+<a href="https://nex-read.vercel.app" target="_blank">
   <img
-    src="https://nexread.vercel.app/og.png"
+    src="https://nex-read.vercel.app/og.png"
     alt="NexRead preview"
-    width="600"
+    width="300"
   />
 </a>
 ---
@@ -66,7 +66,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
   <img
     src="https://prathamtelang-portfolio.vercel.app/og.png"
     alt="Portfolio preview"
-    width="600"
+    width="300"
   />
 </a>
 ---
