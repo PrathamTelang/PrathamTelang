@@ -40,7 +40,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 
 #### Design & UI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,tailwindcss,motion" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwindcss,framermotion" />
 </p>
 
 #### ORM & Databases
