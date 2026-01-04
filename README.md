@@ -52,7 +52,7 @@ github.com/PrathamTelang/LinkStash
 - Portfolio: prathamtelang-portfolio.vercel.app  
 - GitHub: github.com/PrathamTelang  
 - LinkedIn: www.linkedin.com/in/prathamtelang
-- X : 
+- X : https://x.com/Prat_Telang
 
 ---
 
