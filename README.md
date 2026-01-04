@@ -48,7 +48,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
   <img
     src="https://pulse-read.vercel.app/og.png"
     alt="PulseRead preview"
-    width="600"
+    width="300"
   />
 </a>
 
