@@ -1,16 +1,57 @@
-## Hi there 👋
+<img src="./banner.png" alt="banner" />
 
-<!--
-**PrathamTelang/PrathamTelang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 Welcome!
 
-Here are some ideas to get you started:
+I'm **Pratham Telang**  
+Design Engineer & Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build clean, interactive, and performance-focused web interfaces with attention to motion, typography, and usability.
+
+---
+
+### 🧠 Interests
+- Frontend Architecture
+- Interaction & Motion Design
+- Design Systems
+- Accessibility-first UI
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+- JavaScript / TypeScript  
+- React, Next.js  
+
+**Styling & Motion**
+- Tailwind CSS  
+- CSS  
+- Framer Motion  
+
+**Tools**
+- Git & GitHub  
+- Figma  
+- Vercel  
+
+---
+
+### 🚀 Featured Projects
+- **PulseRead** – Speed reading web app  
+  https://github.com/PrathamTelang/PulseRead  
+
+- **LinkStash** – Save & organize links  
+  https://github.com/PrathamTelang/LinkStash  
+
+- **Portfolio**  
+  https://prathamtelang-portfolio.vercel.app
+
+---
+
+### 📫 Connect with me
+- Portfolio: https://prathamtelang-portfolio.vercel.app  
+- GitHub: https://github.com/PrathamTelang  
+- LinkedIn: *(add link if you want)*
+
+---
+
+⚡ Fun fact: I enjoy blending design systems with frontend engineering.
