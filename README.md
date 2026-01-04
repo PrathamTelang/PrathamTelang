@@ -18,6 +18,9 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 ---
 
 ### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,git,figma" />
+</p>
 
 **Languages & Frameworks**
 - JavaScript / TypeScript  
