@@ -21,23 +21,38 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 ---
 
 ### 🛠 Tech Stack
+### 🛠 Tech Stack
+
+#### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,git,figma,express,node,postgres,mongo,prisma" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
-**Languages & Frameworks**
-- JavaScript / TypeScript  
-- React, Next.js  
+#### Web Development Frameworks & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite" />
+</p>
 
-**Styling & Motion**
-- Tailwind CSS  
-- CSS  
-- Framer Motion  
+#### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-**Tools**
-- Git & GitHub  
-- Figma  
-- Vercel  
+#### Design & UI Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,tailwindcss" />
+</p>
+<p>
+  Motion for React (Framer Motion)
+</p>
+
+#### ORM & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongo,postgres,prisma" />
+</p>
+<p>
+  Mongoose
+</p>
 
 ---
 
