@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="banner" />
+<img src="./og-portfolio.png" alt="banner" />
 
 ## Hi there 👋 Welcome!
 
