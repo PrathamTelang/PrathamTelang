@@ -19,7 +19,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,git,figma,express,node,postgres,mongo,prisma" />
 </p>
 
 **Languages & Frameworks**
@@ -52,7 +52,7 @@ github.com/PrathamTelang/LinkStash
 - Portfolio: prathamtelang-portfolio.vercel.app  
 - GitHub: github.com/PrathamTelang  
 - LinkedIn: www.linkedin.com/in/prathamtelang
-- X : x.com/Prat_Telang
+- X : 
 
 ---
 
