@@ -1,4 +1,7 @@
-<img src="./banner.png" alt="banner" href="prathamtelang-portfolio.vercel.app" />
+<a href="https://prathamtelang-portfolio.vercel.app" target="_blank">
+  <img src="./banner.png" alt="banner" />
+</a>
+
 
 ## Hi there 👋 Welcome!
 
