@@ -21,7 +21,6 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 ---
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 
 #### Programming Languages
 <p>
@@ -95,11 +94,7 @@ https://github.com/PrathamTelang/LinkStash
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://prathamtelang-portfolio.vercel.app">
-    <img src="https://skillicons.dev/icons?i=web" width="48" />
-    <br/>Portfolio
-  </a>
+<p>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PrathamTelang">
     <img src="https://skillicons.dev/icons?i=github" width="48" />
