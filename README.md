@@ -93,11 +93,30 @@ https://github.com/PrathamTelang/LinkStash
 
 ---
 
-### 📫 Connect with me
-- Portfolio: prathamtelang-portfolio.vercel.app  
-- GitHub: github.com/PrathamTelang  
-- LinkedIn: www.linkedin.com/in/prathamtelang
-- X : https://x.com/Prat_Telang
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://prathamtelang-portfolio.vercel.app">
+    <img src="https://skillicons.dev/icons?i=web" width="48" />
+    <br/>Portfolio
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PrathamTelang">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+    <br/>GitHub
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prathamtelang">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+    <br/>LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Prat_Telang">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" />
+    <br/>X
+  </a>
+</p>
+
 
 ---
 
