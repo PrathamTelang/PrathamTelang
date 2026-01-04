@@ -57,7 +57,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 #### NexRead — Book insights, summaries & text-to-speech platform
 <a href="https://nex-read.vercel.app" target="_blank">
   <img
-    src="https://nex-read.vercel.app/og.png"
+    src="https://nex-read.vercel.app/og-nexread.png"
     alt="NexRead preview"
     width="300"
   />
@@ -68,7 +68,7 @@ I build clean, interactive, and performance-focused web interfaces with attentio
 #### Portfolio — Design engineering showcase
 <a href="https://prathamtelang-portfolio.vercel.app" target="_blank">
   <img
-    src="https://prathamtelang-portfolio.vercel.app/og.png"
+    src="https://prathamtelang-portfolio.vercel.app/og-portfolio.png"
     alt="Portfolio preview"
     width="300"
   />
